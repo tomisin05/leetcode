@@ -6,8 +6,7 @@ public boolean isP
 
 // roman numeral
 
-'''
-first create a Map withthe roman numerals and their respective valuae
+'''first create a Map withthe roman numerals and their respective valuae
 then creaate a character array  of the input string
 create variable for result
 initialize two pointer i=0 and j =1, then loop till j < length of the character array

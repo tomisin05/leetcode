@@ -6,22 +6,32 @@ This repository is dedicated to daily practice and solutions of LeetCode problem
 
 The workspace currently includes solutions and approaches for the following problems:
 
-1. Matrix Transpose
-2. Middle of the Linked List
-3. Mountain Array
-4. Reverse Integer
-5. Complement of Base 10 Integer
-6. Number Palindrome
-8. Longest Common Prefix
-9. Valid Parentheses
-10. Search Insert Position
-11. Remove All Adjacent Duplicates In String
-12. Split a String in Balanced Strings
-13. 
-
-1. Roman Numeral to Integer
-2. Largest common Prefix
-
+1. Number Palindrome (incomplete implementation)
+2. Roman Numeral to Integer
+3. Largest Common Prefix
+4. Valid Parentheses
+5. Search Insert Position
+6. Last Word Length
+7. Remove Duplicates from Sorted List
+8. Merge Two Sorted Lists
+9. Best Time to Buy and Sell Stock
+10. Best Time to Buy and Sell Stock II
+11. Valid Palindrome
+12. Single Number (with two approaches: HashMap and XOR)
+13. Linked List Cycle
+14. Majority Element
+15. Reverse Linked List
+16. Contains Duplicate
+17. Contains Duplicate II
+18. Palindrome Linked List
+19. Valid Anagram (with two approaches)
+20. Move Zeroes
+21. Count Ones
+22. Reverse String
+23. Detect Capital
+24. Isomorphic Strings
+25. Product of Array Except Self
+26. Maximum Number of Points with Cost 
 
 
 ## Structure

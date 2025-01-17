@@ -33,7 +33,8 @@ The workspace currently includes solutions and approaches for the following prob
 25. Product of Array Except Self
 26. Maximum Number of Points with Cost 
 
-## Structure     
+
+## Structure
 
 Each solution includes:
 - Problem approach comments

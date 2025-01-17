@@ -32,7 +32,7 @@ The workspace currently includes solutions and approaches for the following prob
 24. Isomorphic Strings
 25. Product of Array Except Self
 26. Maximum Number of Points with Cost 
-    
+     
    
 ## Structure    
 

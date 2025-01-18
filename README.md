@@ -43,7 +43,7 @@ Each solution includes:
 
 ## Problem-Solving Patterns Used
 
-- T w o Pointer Technique  
+- T w o P ointer Technique  
 - Stack Implementation  
 - Binary Search  
 - String Manipulation

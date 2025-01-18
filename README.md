@@ -43,7 +43,7 @@ Each solution includes:
 
 ## Problem-Solving Patterns Used
 
-- T w o P o i n t e r T echnique  
+- T w o P o i n t e r T e chnique  
 - Stack Implementation  
 - Binary Search  
 - String Manipulation

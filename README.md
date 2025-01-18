@@ -35,7 +35,7 @@ The workspace currently includes solutions and approaches for the following prob
 
   
 ## Structure 
-
+ 
 Each solution includes: 
 - Problem approach comments 
 - Algorithm explanation

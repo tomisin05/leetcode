@@ -45,7 +45,7 @@ Each solution includes:
 
 - Two Pointer Technique  
 - Stack Implementation  
-- Binary Search
+- Binary Search 
 - String Manipulation
 - Mathematical Operations
 - Array Traversal

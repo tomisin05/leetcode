@@ -44,12 +44,14 @@ Each solution includes:
 ## Problem-Solving Patterns Used
 
 - Two Pointer Technique  
-- Stack Implementation    
+- Stack Implementat ion    
 - Binary Search   
 - String Manipulation
 - Mathematical Op erat i o ns 
 - Array Traversal 
-   
+
+
+
 ## How to Use
  
 1. Each problem solution is documented with comments explaining the approach

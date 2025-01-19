@@ -47,7 +47,7 @@ Each solution includes:
 - Stack Implementation    
 - Binary Search   
 - String Manipulation
-- Mathematical Operations 
+- Mathematical Op erations 
 - Array Traversal 
    
 ## How to Use

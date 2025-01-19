@@ -53,7 +53,7 @@ Each solution includes:
 ## How to Use
  
 1. Each problem solution is documented with comments explaining the approach
-2. Solutions are written in Java
+2. Solutions are written in Java 
 3. Comments include step-by-step breakdown of the algorithm
 
 ## Goals

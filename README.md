@@ -49,7 +49,7 @@ Each solution includes:
 - String Manipulation
 - Mathematical Operations
 - Array Traversal 
- 
+  
 ## How to Use
  
 1. Each problem solution is documented with comments explaining the approach

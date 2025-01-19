@@ -44,7 +44,7 @@ Each solution includes:
 ## Problem-Solving Patterns Used
 
 - Two Pointer Technique  
-- Stack Implementat ion    
+- Stack Implementation    
 - Binary Search   
 
 - String Manipulation

@@ -53,7 +53,7 @@ Each solution includes:
  
 
   
-## How to Use
+## How to Use 
  
 1. Each problem solution is documented with comments explaining the approach
 2. Solutions are written in Java 

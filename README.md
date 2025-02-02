@@ -44,11 +44,11 @@ Each solution includes:
 ## Problem-Solving Patterns Used
 
 - Two Pointer Technique  
-- Stack Implementation    
+- Stack I mplementation    
 - Binary Search   
 
 - String Manipulation
-- Mathematical Operations 
+- M athematical Operations 
 - Array Traversal 
  
  

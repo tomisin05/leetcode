@@ -48,7 +48,7 @@ Each solution includes:
 - Binary Search   
 
 - String Manipulation
-- M at he mat ical Operations 
+- M at hemat ical Operations 
 - Array Traversal 
  
  

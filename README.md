@@ -31,32 +31,30 @@ The workspace currently includes solutions and approaches for the following prob
 23. Detect Capital
 24. Isomorphic Strings
 25. Product of Array Except Self
-26. Maximum Number of Points with Cost 
+26. Maximum Number of Points with Cost
 
-  
-## Structure 
- 
-Each solution includes: 
-- Problem approach comments 
+## Structure
+
+Each solution includes:
+
+- Problem approach comments
 - Algorithm explanation
 - Time and space complexity considerations
 
 ## Problem-Solving Patterns Used
 
-- Two Pointer Technique  
-- Stack Implementation    
-- Binary Search   
+- Two Pointer Technique
+- Stack Implementation
+- Binary Search
 
 - String Manipulation
-- Mathematical Operations 
-- Array Traversal 
- 
- 
-  
-## How to Use  
- 
+- Mathematical Operations
+- Array Traversal
+
+## How to Use
+
 1. Each problem solution is documented with comments explaining the approach
-2. Solutions are written in Java 
+2. Solutions are written in Java
 3. Comments include step-by-step breakdown of the algorithm
 
 ## Goals
@@ -65,11 +63,12 @@ Each solution includes:
 - Master common algorithmic patterns
 - Improve problem-solving skills
 - Build a strong foundation in data structures
-- Prepare for technical interviews
+- P repare for technical interviews
 
 ## Contributing
 
 Feel free to:
+
 - Add new solutions
 - Optimize existing solutions
 - Add different approaches to the same problem

@@ -63,7 +63,7 @@ Each solution includes:
 - Master common algorithmic patterns
 - Improve problem-solving skills
 - Build a strong foundation in data structures
-- P repare for technical interviews
+- Prepare for technical interviews
 
 ## Contributing
 

@@ -55,7 +55,7 @@ Each solution includes:
 
 1. Each problem solution is documented with comments explaining the approach
 2. Sol ut ions are written in Java
-3. Com ment s include step-by-step breakdown of the algorithm
+3. Com men t s include step-by-step breakdown of the algorithm
 
 ## Goals
 

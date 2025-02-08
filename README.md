@@ -65,7 +65,7 @@ Each solution includes:
 - Build a strong foundation in data structures
 - Prepare for technical interviews
 
-## Contributing
+## Contributin
 
 Feel free to:
 

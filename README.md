@@ -60,7 +60,7 @@ Each solution includes:
 ## Goals
 
 - Practice coding problems daily
-- M a st er co mm on al go ri th mi c patterns
+- M a s t er co mm on al go ri th mi c patterns
 - Improve problem-solving skills
 - Build a strong foundation in data structures
 - Prepare for technical interviews

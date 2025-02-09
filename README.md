@@ -62,7 +62,7 @@ Each solution includes:
 - Practice coding problems daily
 - Master common algorithmic patterns
 - Improve problem-solving skills
-- Bu il d a st rong foundation in data structures
+- Bu il d a st ro ng foundation in data structures
 - Prepare for technical interviews
 
 ## Contributing

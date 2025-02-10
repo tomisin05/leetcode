@@ -17,12 +17,12 @@ The workspace currently includes solutions and approaches for the following prob
 9. Best Time to B uy and Sell Stock
 10. Best Time to Buy and Sell Stock II
 11. Valid Palindrome
-12. Single Numb e r (wit h two approaches: HashMap and XOR)
+12. Single Numb er (wit h two approaches: HashMap and XOR)
 13. Linked List Cycle
 14. Majority Element
 15. Reverse Linked List
 16. Contains Duplicate
-17. Cont ains Duplicate II
+17. Contains Duplicate II
 18. Palindrome Linked List
 19. Valid Anagram (with two approache s)
 20. Move Zeroes

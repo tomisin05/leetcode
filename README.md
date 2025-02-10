@@ -17,7 +17,7 @@ The workspace currently includes solutions and approaches for the following prob
 9. Best Time to B uy and Sell Stock
 10. Best Time to Buy and Sell Stock II
 11. Valid Palindrome
-12. Single Numb er (with two approaches: HashMap and XOR)
+12. Single Numb er (wit h two approaches: HashMap and XOR)
 13. Linked List Cycle
 14. Majority Element
 15. Reverse Linked List

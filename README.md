@@ -8,7 +8,7 @@ The workspace currently includes solutions and approaches for the following prob
 
 1. Number Palindrome (incomplete implementation)
 2. Roman Numeral to Integer
-3. Largest Commo n Prefix
+3. Largest Com mo n Prefix
 4. Valid Parentheses
 5. Se ar ch Insert Position
 6. Last Word Length

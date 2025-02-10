@@ -10,7 +10,7 @@ The workspace currently includes solutions and approaches for the following prob
 2. Roman Numeral to Integer
 3. Largest Common Prefix
 4. Valid Parentheses
-5. Search Insert Position
+5. Se ar ch Insert Position
 6. Last Word Length
 7. Remove Duplicates from Sorted List
 8. Merge Two Sorted Lists

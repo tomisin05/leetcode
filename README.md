@@ -22,9 +22,9 @@ The workspace currently includes solutions and approaches for the following prob
 14. Majority Element
 15. Reverse Linked List
 16. Contains Duplicate
-17. Contains Duplicate II
+17. Cont ains Duplicate II
 18. Palindrome Linked List
-19. Valid Anagram (with two approaches)
+19. Valid Anagram (with two approache s)
 20. Move Zeroes
 21. Count Ones
 22. Reverse String

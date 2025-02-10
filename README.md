@@ -14,7 +14,7 @@ The workspace currently includes solutions and approaches for the following prob
 6. Last Word Length
 7. Remove Duplicates from Sorted List
 8. Merge Two Sorted Lists
-9. Best Time to Buy and Sell Stock
+9. Best Time to B uy and Sell Stock
 10. Best Time to Buy and Sell Stock II
 11. Valid Palindrome
 12. Single Number (with two approaches: HashMap and XOR)

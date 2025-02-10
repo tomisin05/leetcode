@@ -13,7 +13,7 @@ The workspace currently includes solutions and approaches for the following prob
 5. Se ar ch Insert Position
 6. Last Word Length
 7. Remove Duplicates from Sorted List
-8. Merge Two Sorted Lists
+8. Merge Two Sort Sed Lists
 9. Best Time to B uy and Sell Stock
 10. Best Time to Buy and Sell Stock II
 11. Valid Palindrome

@@ -10,7 +10,7 @@ public boolean isP
 '''first create a Map with the roman numerals and their respective values
 then create a character array  of the input string
 create variable for result
-initialize two pointer i=0 and j =1, then lo op till j < length of the char act er array
+initialize two pointer i=0 and j =1, then loop till j < length of the character array
 in the loop check if the character at j is >= the the char at i --> then add it to result else subtract it
 
 

@@ -14,7 +14,7 @@ initialize two pointer i=0 and j =1, then loop till j < length of the character 
 in the loop check if the character at j is >= the the char at i --> then add it to result else subtract it
 
 
-then outside the forloop add the value at the last index{i}
+then outside the for loop add the value at the last index{i}
 return the result
 '''
 

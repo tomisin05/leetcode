@@ -15,7 +15,7 @@ in the loop check if the character at j is >= the the char at i --> then add it 
 
 
 then outside the for loop add the value at the last index{i}
-return the result
+return the results
 '''
 
 
